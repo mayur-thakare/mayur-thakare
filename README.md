@@ -1,7 +1,15 @@
 
-# 💫 About Me:
-👋 Hi, I'm Mayur Thakare<br><br>I'm a Computer Science graduate and AI/Data professional based in Pune, India, with hands-on experience building AI, Machine Learning, Data Analytics, and Generative AI solutions.<br><br>I enjoy turning raw data and real-world problems into practical, automated solutions. My current focus is on AI Engineering, Machine Learning, Data Analytics, and Generative AI.<br><br>🔧 What I Work With<br>Languages: Python, SQL<br>Data & Analytics: Pandas, NumPy, Advanced Excel, Power BI, Tableau<br>Machine Learning: Scikit-learn, Computer Vision, YOLO, OpenCV<br>Generative AI: LLMs, RAG, LangChain, Embeddings, FAISS<br>AI Development: FastAPI, API development, AI automation<br>Databases: MySQL<br>Tools: Git, GitHub, VS Code, Google Colab<br>🚀 Projects<br><br>I've worked on projects including:<br><br>🤖 AI Classroom Monitoring System using YOLO, OpenCV, tracking, RAG and automated reporting<br>📊 AI-Powered Business Analytics Monitoring Agent for anomaly detection, business insights and automated alerts<br>📈 Indian Startup Analysis Dashboard using Power BI<br>🗄️ Cab Booking & T20 World Cup Analysis using SQL<br>📊 Data Analytics dashboards using Excel and Power BI<br>💼 Experience<br><br>I've gained practical experience through Data Science and AI Engineering internships, working on Python, computer vision, machine learning, data analysis, automation, and AI-based applications.<br><br>🎯 Currently<br><br>I'm looking for opportunities as an AI Engineer, Machine Learning Engineer, Data Analyst, Data Scientist, or Generative AI Engineer, where I can work on real-world problems and continue growing as an AI professional.<br><br>Build. Analyze. Automate. Learn. Repeat.
+## 👋 About Me
 
+Hi, I'm **Mayur Thakare**, a Computer Science graduate from Pune, India.
+
+I'm an **AI & Data professional** passionate about **AI Engineering, Machine Learning, Generative AI, and Data Analytics**.
+
+I work with **Python, SQL, Power BI, Pandas, Machine Learning, LLMs, RAG, LangChain, and Computer Vision**.
+
+I enjoy building practical AI solutions and turning data into meaningful insights.
+
+🎯 **Currently exploring AI & ML opportunities**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mayur-thakare-data-analyst) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mthakare850@gmail.com) 
